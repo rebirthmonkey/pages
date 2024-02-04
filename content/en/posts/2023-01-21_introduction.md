@@ -1,3 +1,0 @@
-# Intruction
-
-I'm Ruan.
