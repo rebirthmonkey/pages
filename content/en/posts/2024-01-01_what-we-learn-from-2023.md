@@ -2,6 +2,7 @@
 title = 'What did we learn from 2023?'
 date = 2024-01-01T22:10:40+08:00
 featured_image = '/images/winter.jpg'
+tags = ["Economy"]
 +++
 
 What did we learn from 2023? What should we prepare for in 2024?

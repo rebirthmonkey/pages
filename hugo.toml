@@ -14,11 +14,10 @@ enableRobotsTXT = true
     title = "Ruan"
     weight = 1
     contentDir = "content/en"
-#  [languages.cn]
-#    title = "贺阮的网页"
-#    weight = 2
-#    contentDir = "content/cn"
-#    description = ""
+  [languages.cn]
+    title = "贺阮"
+    weight = 2
+    contentDir = "content/cn"
 
 [author]
   name = "HE Ruan"
